@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
+    
 
     [SerializeField] private float moveSpeed = 7f; // private variable but make it available to unity editor for testing
 
